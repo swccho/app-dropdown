@@ -246,6 +246,7 @@ $aqua: #006266;
         transition: 400ms;
         &:hover{
           transition: 400ms;
+          background-color: rgba($theme, .1);
           padding-left: 25px;
           &:before{
             transition: 400ms;
